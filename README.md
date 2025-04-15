@@ -1,16 +1,27 @@
-## Hi there 👋
+<div style="background-color:#fff0f5; padding:20px; border-radius:15px;">
+  
+# 🌸 Olá, eu sou a Letícia!
 
-<!--
-**LetucinhaS2/LetucinhaS2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" width="300" />
 
-Here are some ideas to get you started:
+Sou estudante, gosto muito de tecnologia, programação e tudo que é criativo!  
+Este espaço é dedicado aos meus aprendizados, projetos e evolução . 🧠💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💼 Sobre mim
+- 🎓 Estudante de ciências da computação
+- 🌈 Gosto de praticar e explorar a programação com criatividade
+- ✨ Explorando Python, HTML, CSS e mais
+
+---
+
+## 🚀 Projetos
+- [Meu portfólio](https://letucinhas2.github.io)
+- Em breve: joguinho 2D com Pygame 🎮
+
+---
+
+## 🌟 Vamos conversar?
+- [![Gmail Badge](https://img.shields.io/badge/-leticiarodriguespereirasantos@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:leticiarodriguespereirasantos@gmail.com)
+- [![LinkedIn Badge](https://img.shields.io/badge/-Letícia%20Rodrigues-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/letícia-rodrigues-67823a2a4)
