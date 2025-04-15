@@ -1,4 +1,4 @@
-<div style="background-color:#fff0f5; padding:20px; border-radius:15px;">
+<img src="https://github.com/LetucinhaS2/LetucinhaS2/blob/main/imagens/cina2.gif?raw=true" width="300" />
   
 # 🌸 Olá, eu sou a Letícia!
 
