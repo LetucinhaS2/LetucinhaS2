@@ -1,3 +1,5 @@
+<img src="https://github.com/LetucinhaS2/LetucinhaS2/blob/main/imagens/cina5.gif?raw=true" width="100%" height="250px" style="border-radius: 10px;" />
+
 # 🌸 Olá, eu sou a Letícia! <img src="https://github.com/LetucinhaS2/LetucinhaS2/blob/main/imagens/cina2.gif?raw=true" width="50" style="vertical-align:middle;" />
 
 
