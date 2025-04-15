@@ -1,11 +1,11 @@
-<img src="https://github.com/LetucinhaS2/LetucinhaS2/blob/main/imagens/cina2.gif?raw=true" width="300" />
-  
-# 🌸 Olá, eu sou a Letícia!
+# 🌸 Olá, eu sou a Letícia! <img src="https://github.com/LetucinhaS2/LetucinhaS2/blob/main/imagens/cina2.gif?raw=true" width="50" style="vertical-align:middle;" />
 
-<img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" width="300" />
+
 
 Sou estudante, gosto muito de tecnologia, programação e tudo que é criativo!  
 Este espaço é dedicado aos meus aprendizados, projetos e evolução . 🧠💻
+
+</div>
 
 ---
 
