@@ -16,13 +16,6 @@ Este espaço é dedicado aos meus aprendizados, projetos e evolução . 🧠💻
 - ✨ Explorando Python, HTML, CSS e mais
   
 
----
-
-## 🚀 Projetos <img src="https://github.com/LetucinhaS2/LetucinhaS2/blob/main/imagens/cina7.gif?raw=true" width="50" style="vertical-align:middle;" />
-
-- [Meu portfólio](https://letucinhas2.github.io)
-- Em breve: joguinho 2D com Pygame 🎮
-
 
 
 ---
